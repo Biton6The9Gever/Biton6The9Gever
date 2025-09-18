@@ -24,6 +24,7 @@ Bananas are berries, but strawberries aren't. 🍌🍓
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biton6The9Gever&layout=compact&theme=radical)
+![Streak](https://github-readme-stats.vercel.app/api?username=Biton6The9Gever&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br>
 ---
 <!---
 Biton6The9Gever/Biton6The9Gever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
