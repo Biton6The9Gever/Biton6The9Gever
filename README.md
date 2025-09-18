@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
 Bananas are berries, but strawberries aren't. 🍌🍓
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biton6The9Gever&layout=compact&theme=radical)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Biton6The9Gever&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=Biton6The9Gever&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=Biton6The9Gever&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ---
