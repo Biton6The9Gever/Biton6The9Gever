@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 - Machine learning and AI 🤖  
 - Vibe coding
 - and more!
-- 
+  
 ## 🌱 I’m currently learning
 - Deep Learning with PyTorch and TensorFlow 🧠   
 
