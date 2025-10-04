@@ -2,20 +2,27 @@
 
 Welcome to my GitHub profile!
 
-## 👀 I’m interested in
-- Cybersecurity and ethical hacking 🛡️  
-- Machine learning and AI 🤖  
-- Vibe coding
-- and more!
+## 🌱 Currently Exploring
+- 🤖 **Deep Learning** (PyTorch, TensorFlow)
+- 🧠 **Machine Learning **
+- 💾 **Data Engineering**
+- 🌐 **Computer Networking & Security*
   
 ## 🌱 I’m currently learning
-- Deep Learning with PyTorch and TensorFlow 🧠   
+- Deep Learning, Machine learning, Data, engineering, and Computer networking   
 
 ## 💞️ I’m looking to collaborate on
 - Open source projects related to AI and cybersecurity  
 - Tools that enhance privacy or internet safety 🔐
 - Networking and web
 
+---
+## 🧰 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,git,bash,vscode,cs" />
+</div>
+
+---
 
 ## 📫 How to reach me
 - 💬 Discord: Biton6The9Gever  
@@ -26,7 +33,3 @@ Welcome to my GitHub profile!
 ![](https://nirzak-streak-stats.vercel.app/?user=Biton6The9Gever&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Biton6The9Gever&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ---
-<!---
-Biton6The9Gever/Biton6The9Gever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
