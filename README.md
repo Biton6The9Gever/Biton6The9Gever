@@ -4,9 +4,9 @@ Welcome to my GitHub profile!
 
 ## 🌱 Currently Exploring
 - 🤖 **Deep Learning** (PyTorch, TensorFlow)
-- 🧠 **Machine Learning **
+- 🧠 **Machine Learning**
 - 💾 **Data Engineering**
-- 🌐 **Computer Networking & Security*
+- 🌐 **Computer Networking & Security**
   
 ## 🌱 I’m currently learning
 - Deep Learning, Machine learning, Data, engineering, and Computer networking   
